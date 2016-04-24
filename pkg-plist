@@ -1,0 +1,6 @@
+pkg/myWPAD.xml
+pkg/myWPAD.inc
+www/packages/myWPAD/myWPAD.php
+www/packages/myWPAD/myWPAD_edit.php
+www/packages/myWPAD/index.php
+%%DATADIR%%/info.xml
